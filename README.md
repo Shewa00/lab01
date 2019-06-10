@@ -14,7 +14,7 @@
 # Присваиваем переменной GITHUB_USERNAME наше имя пользователя на Github
 $ export GITHUB_USERNAME=Shewa00
 # Вводим для переменной GIST_TOKEN созданный токен для работы с Gist' ами
-$ export GIST_TOKEN=18d78ee4ca885daddbea17a9add1378826c2fc01
+$ export GIST_TOKEN=
 # Биндим команду edit с вызовом редактора Atom
 $ alias edit=atom #
 
